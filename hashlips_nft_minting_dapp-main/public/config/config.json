@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x9622c9F4f2dD334E4D9Fa606FB99eB7e79016eAE",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9622c9F4f2dD334E4D9Fa606FB99eB7e79016eAE",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Little Owl Company NFT",
+  "SYMBOL": "LOCNFT",
+  "MAX_SUPPLY": 1204,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "http://opensea.io/collection/locnft",
+  "SHOW_BACKGROUND": true
+}
+
